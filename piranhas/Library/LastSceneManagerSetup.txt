@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Sprites/Water-back/Water.unity
+- path: Assets/Sprites/Boat/Boat.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
